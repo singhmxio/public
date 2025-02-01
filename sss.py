@@ -4,7 +4,7 @@ import datetime
 import os
 # VIP DDOS GROUP. JOIN TO MORE UPDATES 
 # Insert your Telegram bot token here
-bot = telebot.TeleBot('7851876572:AAFWXA7tXGox51ol68JXMqHsewjddX6044Q')
+bot = telebot.TeleBot('7907167417:AAHWH8r3RJO3CQAHl5Npekizf_iSfxict7Q')
 # DEVELOPER --> @TOXICPLAYER002
 # Admin user IDs
 admin_id = ["","6882674372"]
